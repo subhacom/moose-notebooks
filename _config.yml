@@ -1,0 +1,11 @@
+# Information about where the book exists on the web
+repository:
+  url                       : https://github.com/subhacom/moose-notebooks  # Online location of your book
+#  path_to_book              : path/to/book  # Optional path to your book, relative to the repository root
+#  branch                    : master  # Which branch of the repository should be used when creating links (optional)
+
+launch_buttons:
+  notebook_interface: "classic"
+  binderhub_url: "https://mybinder.org"
+  colab_url: "https://colab.research.google.com"
+

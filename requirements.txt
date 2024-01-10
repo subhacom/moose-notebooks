@@ -1,0 +1,5 @@
+# Requirements for running moose-notebooks
+numpy
+scipy
+matplotlib
+pymoose
