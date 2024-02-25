@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="324.26901mm"
+   height="194.72241mm"
+   viewBox="0 0 324.26902 194.72242"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="synchan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53273008"
+     inkscape:cx="630.7134"
+     inkscape:cy="358.53053"
+     inkscape:window-width="1440"
+     inkscape:window-height="792"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker4737"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4735"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4532"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4530"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern3937"
+       patternTransform="matrix(10,0,0,10,-257.7642,101.26447)" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Strips1_1"
+       inkscape:stockid="Stripes 1:1"
+       inkscape:isstock="true">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect2951" />
+    </pattern>
+    <marker
+       style="overflow:visible"
+       id="marker4532-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4530-5"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L-2"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(64.250528,6.7215717)">
+    <rect
+       style="fill:none;stroke:#fdb863;stroke-width:9.0035;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect241"
+       width="66.024925"
+       height="184.7256"
+       x="189.49182"
+       y="-1.4748371" />
+    <rect
+       style="fill:#b2abd2;stroke:#e66101;stroke-width:5;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect849"
+       width="34.26923"
+       height="19.86622"
+       x="158.92976"
+       y="80.70652" />
+    <rect
+       style="fill:#009292;stroke:url(#pattern3937);stroke-width:4.99999;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect1863"
+       width="99.827751"
+       height="10.926424"
+       x="-140.55351"
+       y="140.5002"
+       transform="rotate(-90)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#b2abd2;stroke:#e66101;stroke-width:6.48874;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path4001"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="6.4565215"
+       sodipodi:cy="22.846153"
+       sodipodi:r1="38.961349"
+       sodipodi:r2="19.480677"
+       sodipodi:arg1="0.29756172"
+       sodipodi:arg2="1.3447593"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 43.705684,34.269229 -22.060734,49.393336 -2.2753854,-15.124106 Z"
+       inkscape:transform-center-x="-3.2088875"
+       inkscape:transform-center-y="0.1564318"
+       transform="matrix(-0.07295962,1.744603,-0.32391363,-0.39296145,166.73206,88.196795)" />
+    <g
+       id="g4589"
+       transform="translate(0,10.18144)">
+      <circle
+         style="fill:#ffff6d;stroke:#920000;stroke-width:4.99999;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path4077"
+         cx="68.53846"
+         cy="39.732441"
+         r="12.913043" />
+      <circle
+         style="fill:#ffff6d;stroke:#920000;stroke-width:4.99999;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path4077-9"
+         cx="68.53846"
+         cy="80.458191"
+         r="12.913043" />
+      <circle
+         style="fill:#ffff6d;stroke:#920000;stroke-width:4.99999;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path4077-9-7"
+         cx="68.53846"
+         cy="-0.99331158"
+         r="12.913043" />
+      <circle
+         style="fill:#ffff6d;stroke:#920000;stroke-width:4.99999;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path4077-9-5"
+         cx="68.53846"
+         cy="161.9097"
+         r="12.913043" />
+      <circle
+         style="fill:#ffff6d;stroke:#920000;stroke-width:4.99999;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path4077-9-54"
+         cx="68.53846"
+         cy="121.18394"
+         r="12.913043" />
+    </g>
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Arrow1L);paint-order:markers stroke fill"
+       d="M 82.94147,9.9331104 133.60033,49.168895"
+       id="path4243"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#marker4532);paint-order:markers stroke fill"
+       d="M 82.941472,51.652173 133.10368,70.028428"
+       id="path4528"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Arrow1L-2);paint-order:markers stroke fill"
+       d="M 82.395201,175.45171 133.05406,136.21592"
+       id="path4243-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#marker4532-2);paint-order:markers stroke fill"
+       d="M 82.395203,133.73264 132.55741,115.35639"
+       id="path4528-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#marker4737);paint-order:markers stroke fill"
+       d="M 82.941471,93.371238 H 133.06966"
+       id="path4733" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="M 67.431831,13.739778 V 3.7397784"
+       id="path5898" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="M 70.410831,13.739779 V 3.7397784"
+       id="path5898-9" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="M 68.521743,54.001388 V 44.001387"
+       id="path5898-9-3" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="M 68.521743,96.054549 V 86.054548"
+       id="path5898-9-6" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="m 68.025088,136.05604 v -10"
+       id="path5898-9-30" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="m 75.47492,136.05604 v -10"
+       id="path5898-9-8" />
+    <path
+       style="fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="m 61.07191,136.05604 v -10"
+       id="path5898-9-4" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="85.911667"
+       y="5.707489"
+       id="text6140"><tspan
+         sodipodi:role="line"
+         id="tspan6138"
+         style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+         x="85.911667"
+         y="5.707489">SpikeGen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="85.911667"
+       y="48.661266"
+       id="text6140-0"><tspan
+         sodipodi:role="line"
+         id="tspan6138-3"
+         style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+         x="85.911667"
+         y="48.661266">SpikeGen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="84.918358"
+       y="88.890366"
+       id="text6140-1"><tspan
+         sodipodi:role="line"
+         id="tspan6138-15"
+         style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+         x="84.918358"
+         y="88.890366">SpikeGen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="85.911667"
+       y="118.19305"
+       id="text6140-08"><tspan
+         sodipodi:role="line"
+         id="tspan6138-4"
+         style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+         x="85.911667"
+         y="118.19305">SpikeGen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="85.911667"
+       y="180.27498"
+       id="text6140-9"><tspan
+         sodipodi:role="line"
+         id="tspan6138-30"
+         style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+         x="85.911667"
+         y="180.27498">SpikeGen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="-111.30379"
+       y="147.89221"
+       id="text6140-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan6138-1"
+         style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+         x="-111.30379"
+         y="147.89221">SynHandler</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="155.50571"
+       y="92.901413"
+       id="text6140-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan6138-1-1"
+         style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+         x="155.50571"
+         y="92.901413">SynChan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       x="-140.12115"
+       y="216.23289"
+       id="text6140-6-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan6138-1-7"
+         style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+         x="-140.12115"
+         y="216.23289">Presynaptic Compartment</tspan></text>
+    <g
+       id="g6637"
+       transform="translate(-0.74640053,1.2583532)">
+      <rect
+         style="fill:none;stroke:#fdb863;stroke-width:4.57608;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect241-6"
+         width="27.24332"
+         height="115.64802"
+         x="-5.691885"
+         y="-54.431931"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-52.625267"
+         y="10.86584"
+         id="text6140-6-5-7"><tspan
+           sodipodi:role="line"
+           id="tspan6138-1-7-8"
+           style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+           x="-52.625267"
+           y="10.86584">Presynaptic Compartment</tspan></text>
+    </g>
+    <g
+       id="g6637-0"
+       transform="translate(-0.74640053,123.4356)">
+      <rect
+         style="fill:none;stroke:#fdb863;stroke-width:4.57608;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect241-6-6"
+         width="27.24332"
+         height="115.64802"
+         x="-5.691885"
+         y="-54.431931"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-52.625267"
+         y="10.86584"
+         id="text6140-6-5-7-5"><tspan
+           sodipodi:role="line"
+           id="tspan6138-1-7-8-7"
+           style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+           x="-52.625267"
+           y="10.86584">Presynaptic Compartment</tspan></text>
+    </g>
+    <g
+       id="g6637-3"
+       transform="translate(-0.74640053,41.984106)">
+      <rect
+         style="fill:none;stroke:#fdb863;stroke-width:4.57608;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect241-6-4"
+         width="27.24332"
+         height="115.64802"
+         x="-5.691885"
+         y="-54.431931"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-52.625267"
+         y="10.86584"
+         id="text6140-6-5-7-3"><tspan
+           sodipodi:role="line"
+           id="tspan6138-1-7-8-0"
+           style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+           x="-52.625267"
+           y="10.86584">Presynaptic Compartment</tspan></text>
+    </g>
+    <g
+       id="g6637-4"
+       transform="translate(-0.74640053,83.124773)">
+      <rect
+         style="fill:none;stroke:#fdb863;stroke-width:4.57608;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect241-6-8"
+         width="27.24332"
+         height="115.64802"
+         x="-5.691885"
+         y="-54.431931"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-52.625267"
+         y="10.86584"
+         id="text6140-6-5-7-7"><tspan
+           sodipodi:role="line"
+           id="tspan6138-1-7-8-5"
+           style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+           x="-52.625267"
+           y="10.86584">Presynaptic Compartment</tspan></text>
+    </g>
+    <g
+       id="g6637-9"
+       transform="translate(-0.74640053,164.16136)">
+      <rect
+         style="fill:none;stroke:#fdb863;stroke-width:4.57608;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect241-6-5"
+         width="27.24332"
+         height="115.64802"
+         x="-5.691885"
+         y="-54.431931"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff6d;stroke:#920000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-52.625267"
+         y="10.86584"
+         id="text6140-6-5-7-32"><tspan
+           sodipodi:role="line"
+           id="tspan6138-1-7-8-73"
+           style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
+           x="-52.625267"
+           y="10.86584">Presynaptic Compartment</tspan></text>
+    </g>
+  </g>
+</svg>
