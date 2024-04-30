@@ -20,5 +20,5 @@ These notebooks present hands-on tutorials for topics in modeling in Neuroscienc
    Puts together the Na+ and K+ currents to demonstrate Hodgkin and Huxley's model of action potential generation in the squid giant axon.
 7. [Synapses](Synapses.ipynb)
    Explains the components of the basic synapse model in MOOSE. There can be multiple ways to model a synapse at different complexities, all based on these basic ideas.
-8. [Network of neurons](Network_of_neurons.ipynb)
+8. [Leaky integrate and fire (LIF) neurons and synapse](Leaky_integrate_and_fire_neuron.ipynb)
    Implementation of a network of simple integrate-and-fire neurons connected via synapses.
