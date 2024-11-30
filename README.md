@@ -1,7 +1,7 @@
 # MOOSE-Notebooks
 
 These notebooks present hands-on tutorials for topics in modeling in Neuroscience and Systems Biology. The contents are
-
+0. [MOOSE overview](Moose_overview.ipynb)
 1. [Resting membrane potential](Resting_membrane_potential.ipynb)
    Discussion of Nernst-Planck and Nernst equation and Goldman-Hodgkin-Katz equation
 2. [Getting started with compartmental modelling in MOOSE](Getting_started_with_compartmental_modelling_in_MOOSE.ipynb)
