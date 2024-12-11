@@ -3,7 +3,7 @@
 These notebooks present hands-on tutorials for topics in modeling in Neuroscience and Systems Biology. The contents are
 
 
-1. [Using MOOSE on Colab](Moose_on_Colab.ipynb)
+1. [Using MOOSE on Colab](MOOSE_on_Colab.ipynb)
 2. [MOOSE overview](Moose_overview.ipynb)
 3. [Resting membrane potential](Resting_membrane_potential.ipynb)
    Discussion of Nernst-Planck and Nernst equation and Goldman-Hodgkin-Katz equation
