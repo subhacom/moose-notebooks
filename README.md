@@ -26,7 +26,8 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
    Implements Hodgkin and Huxley's model of Na+ current. The Na+ current is responsible for depolarizing the neuron for an action potential, whereas the K+ current repolarizes it.
 11. [Action potentials](Action_potentials.ipynb)
    Puts together the Na+ and K+ currents to demonstrate Hodgkin and Huxley's model of action potential generation in the squid giant axon.
-
+12. [Direction selectivity](Direction_selectivity.ipynb)
+    Shows how centripetal sequence of inputs (i.e., starting at distal dendrites and moving towards the soma) is more effective at depolarizing the soma compared to a centrifugal sequence of inputs.
 ## Biochemistry of Neurons
 
 1. [Modeling a simple chemical reaction](Chemical_kinetics_introduction.ipynb)
