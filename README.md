@@ -31,6 +31,9 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
 ## Biochemistry of Neurons
 
 1. [Modeling a simple chemical reaction](Chemical_kinetics_introduction.ipynb)
+   Shows how to setup a reversible chemcial reaction following the law of mass action.
+1. [Simple chemical reaction system with bistability](Simple_chemical_bistable.ipynb)
+   Explains bistability and shows how to implement this in a reaction system.
 
 ## Intermediate
 1. [Synapses](Synapses.ipynb)
