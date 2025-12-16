@@ -32,6 +32,8 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
 
 1. [Modeling a simple chemical reaction](Chemical_kinetics_introduction.ipynb)
    Shows how to setup a reversible chemcial reaction following the law of mass action.
+1. [Modeling Michaelis-Menten enzymatic reaction](Michaelis_Menten_kinetics.ipynb)
+   Demonstration of enzymatic reaction with Michaelis-Menten type kinetics and Lineweaver-Burk plot.    
 1. [Simple chemical reaction system with bistability](Simple_chemical_bistable.ipynb)
    Explains bistability and shows how to implement this in a reaction system.
 
