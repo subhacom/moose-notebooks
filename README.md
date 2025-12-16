@@ -3,10 +3,11 @@
 These notebooks present hands-on tutorials for topics in modeling in Neuroscience and Systems Biology. The contents are divided into three groups, Beginner, Intermediate, and Advanced.
 
 ## How to run these notebooks
-These notebooks use the MOOSE neuro-simulator. It is available as a Python module. You can either install it on your own computer, or install it on a [Google Colab](https://colab.research.google.com/) environment.
+These notebooks use the MOOSE neuro-simulator. It is available as a Python module. You can either install it on your own computer, or install it on a [Google Colab](https://colab.research.google.com/) environment. 
 
 ## Beginner
 1. [Using MOOSE on Colab](MOOSE_on_Colab.ipynb)
+1. [Using MOOSE on Binder](MOOSE_on_Binder.ipynb)
 1. [MOOSE overview](Moose_overview.ipynb)
 
 ## Biophysics of Neurons
