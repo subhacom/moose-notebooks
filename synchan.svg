@@ -7,7 +7,7 @@
    viewBox="0 0 324.26902 194.72242"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    sodipodi:docname="synchan.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,12 +26,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.53273008"
-     inkscape:cx="630.7134"
-     inkscape:cy="358.53053"
+     inkscape:cx="631.65196"
+     inkscape:cy="357.59197"
      inkscape:window-width="1440"
      inkscape:window-height="792"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -374,7 +374,7 @@
          id="tspan6138-1-7"
          style="font-size:8.46667px;fill:#000000;stroke:none;stroke-width:1"
          x="-140.12115"
-         y="216.23289">Presynaptic Compartment</tspan></text>
+         y="216.23289">Postsynaptic Compartment</tspan></text>
     <g
        id="g6637"
        transform="translate(-0.74640053,1.2583532)">
