@@ -3,7 +3,7 @@
 These notebooks present hands-on tutorials for topics in modeling in Neuroscience and Systems Biology. The contents are divided into three groups, Beginner, Intermediate, and Advanced.
 
 ## How to run these notebooks
-These notebooks use the MOOSE neuro-simulator. It is available as a Python module. You can either install it on your own computer, or install it on a [Google Colab](https://colab.research.google.com/) environment. 
+These notebooks use the MOOSE neuro-simulator. It is available as a Python module. You can either install it on your own computer, or install it on a [Google Colab](https://colab.research.google.com/) environment.
 
 ## Beginner
 1. [Using MOOSE on Colab](MOOSE_on_Colab.ipynb)
@@ -29,12 +29,12 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
    Puts together the Na+ and K+ currents to demonstrate Hodgkin and Huxley's model of action potential generation in the squid giant axon.
 1. [Direction selectivity](Direction_selectivity.ipynb)
     Shows how centripetal sequence of inputs (i.e., starting at distal dendrites and moving towards the soma) is more effective at depolarizing the soma compared to a centrifugal sequence of inputs.
-## Biochemistry of Neurons
 
+## Biochemistry of Neurons
 1. [Modeling a simple chemical reaction](Chemical_kinetics_introduction.ipynb)
    Shows how to setup a reversible chemcial reaction following the law of mass action.
 1. [Modeling Michaelis-Menten enzymatic reaction](Michaelis_Menten_kinetics.ipynb)
-   Demonstration of enzymatic reaction with Michaelis-Menten type kinetics and Lineweaver-Burk plot.    
+   Demonstration of enzymatic reaction with Michaelis-Menten type kinetics and Lineweaver-Burk plot.
 1. [Simple chemical reaction system with bistability](Simple_chemical_bistable.ipynb)
    Explains bistability and shows how to implement this in a reaction system.
 
