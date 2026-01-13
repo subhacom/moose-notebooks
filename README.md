@@ -37,6 +37,8 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
    Demonstration of enzymatic reaction with Michaelis-Menten type kinetics and Lineweaver-Burk plot.
 1. [Simple chemical reaction system with bistability](Simple_chemical_bistable.ipynb)
    Explains bistability and shows how to implement this in a reaction system.
+1. [Stochastic chemical model](Stochastic_chemical_model.ipynb)
+   A simple bistable chemical system, but adressing the randomness that becomes prominent when the number of interacting particles is small.
 
 ## Intermediate
 1. [Synapses](Synapses.ipynb)
