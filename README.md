@@ -8,7 +8,7 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
 ## Beginner
 1. [Using MOOSE on Colab](MOOSE_on_Colab.ipynb)
 1. [Using MOOSE on Binder](MOOSE_on_Binder.ipynb)
-1. [MOOSE overview](Moose_overview.ipynb)
+1. [MOOSE overview](MOOSE_overview.ipynb)
 
 ## Biophysics of Neurons
 1. [Resting membrane potential](Resting_membrane_potential.ipynb)
