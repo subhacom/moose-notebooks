@@ -21,6 +21,8 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
    Describes how you can connect several compartments to create a neuronal cable
 1. [Cable theory](Cable_theory.ipynb)
    Derives the cable equation and then shows its approximation using a voltage clamped multicompartmental cable
+1. [Branching neurites](Branching_neurites.ipynb)
+   How does branching affect electrical signals through neurons    
 1. [Hodgkin and Huxley's model of K+ current](Action_potentials_K_channel.ipynb)
    Implements Hodgkin and Huxley's model of K+ current. This is the first step towards modeling action potentials in the squid giant axon.
 1. [Hodgkin and Huxley's model of Na+ current](Action_potentials_Na_channel.ipynb)
