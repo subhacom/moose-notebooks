@@ -32,6 +32,11 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
 1. [Direction selectivity](Direction_selectivity.ipynb)
     Shows how centripetal sequence of inputs (i.e., starting at distal dendrites and moving towards the soma) is more effective at depolarizing the soma compared to a centrifugal sequence of inputs.
 
+## Abstract models of neuronal dynamics
+1. [Dynamical system with a single channel](Dynamicl_system_with_NaP.ipynb)
+   Introduces neuron as a dynamical system with stable and unstable states using a simplified model neuron with a fast Na channel without inactivation.
+2. [Dynamical system with two state variables](Dynamicl_system_with_NaP_and_K.ipynb)
+    Demonstrates how a neuron with a fast $Na^{+}$ channel and a slow $K^{+}$ channel implements a 2-dimensional dynamical system.
 ## Biochemistry of Neurons
 1. [Modeling a simple chemical reaction](Chemical_kinetics_introduction.ipynb)
    Shows how to setup a reversible chemcial reaction following the law of mass action.
