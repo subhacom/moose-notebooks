@@ -22,7 +22,7 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
 1. [Cable theory](Cable_theory.ipynb)
    Derives the cable equation and then shows its approximation using a voltage clamped multicompartmental cable
 1. [Branching neurites](Branching_neurites.ipynb)
-   How does branching affect electrical signals through neurons    
+   How does branching affect electrical signals through neurons
 1. [Hodgkin and Huxley's model of K+ current](Action_potentials_K_channel.ipynb)
    Implements Hodgkin and Huxley's model of K+ current. This is the first step towards modeling action potentials in the squid giant axon.
 1. [Hodgkin and Huxley's model of Na+ current](Action_potentials_Na_channel.ipynb)
@@ -33,9 +33,9 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
     Shows how centripetal sequence of inputs (i.e., starting at distal dendrites and moving towards the soma) is more effective at depolarizing the soma compared to a centrifugal sequence of inputs.
 
 ## Abstract models of neuronal dynamics
-1. [Dynamical system with a single channel](Dynamicl_system_with_NaP.ipynb)
+1. [Dynamical system with a single channel](Dynamical_system_with_NaP.ipynb)
    Introduces neuron as a dynamical system with stable and unstable states using a simplified model neuron with a fast Na channel without inactivation.
-2. [Dynamical system with two state variables](Dynamicl_system_with_NaP_and_K.ipynb)
+2. [Dynamical system with two state variables](Dynamical_system_with_NaP_and_K.ipynb)
     Demonstrates how a neuron with a fast $Na^{+}$ channel and a slow $K^{+}$ channel implements a 2-dimensional dynamical system.
 ## Biochemistry of Neurons
 1. [Modeling a simple chemical reaction](Chemical_kinetics_introduction.ipynb)
