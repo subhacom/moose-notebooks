@@ -5,7 +5,8 @@ These notebooks present hands-on tutorials for topics in modeling in Neuroscienc
 ## How to run these notebooks
 These notebooks use the MOOSE neuro-simulator. It is available as a Python module. You can either install it on your own computer, or install it on a [Google Colab](https://colab.research.google.com/) environment. You can also use [binder](https://mybinder.org/) to run all the notebooks in a single environment.
 
-## Beginner
+# Beginner
+## Getting started
 1. [Using MOOSE on Colab](MOOSE_on_Colab.ipynb)
 1. [Using MOOSE on Binder](MOOSE_on_Binder.ipynb)
 1. [MOOSE overview](MOOSE_overview.ipynb)
@@ -29,14 +30,15 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
    Implements Hodgkin and Huxley's model of Na+ current. The Na+ current is responsible for depolarizing the neuron for an action potential, whereas the K+ current repolarizes it.
 1. [Action potentials](Action_potentials.ipynb)
    Puts together the Na+ and K+ currents to demonstrate Hodgkin and Huxley's model of action potential generation in the squid giant axon.
-1. [Direction selectivity](Direction_selectivity.ipynb)
-    Shows how centripetal sequence of inputs (i.e., starting at distal dendrites and moving towards the soma) is more effective at depolarizing the soma compared to a centrifugal sequence of inputs.
+1. [Modeling by composition](Neuronal_modeling_by_composition.ipynb)
+    Demonstrates how to load a neuronal morphology trace to build a passive model and then insert ion channels from the ion channel library bundled with MOOSE.
 
 ## Abstract models of neuronal dynamics
 1. [Dynamical system with a single channel](Dynamical_system_with_NaP.ipynb)
    Introduces neuron as a dynamical system with stable and unstable states using a simplified model neuron with a fast Na channel without inactivation.
 2. [Dynamical system with two state variables](Dynamical_system_with_NaP_and_K.ipynb)
     Demonstrates how a neuron with a fast $Na^{+}$ channel and a slow $K^{+}$ channel implements a 2-dimensional dynamical system.
+   
 ## Biochemistry of Neurons
 1. [Modeling a simple chemical reaction](Chemical_kinetics_introduction.ipynb)
    Shows how to setup a reversible chemcial reaction following the law of mass action.
@@ -47,7 +49,10 @@ These notebooks use the MOOSE neuro-simulator. It is available as a Python modul
 1. [Stochastic chemical model](Stochastic_chemical_model.ipynb)
    A simple bistable chemical system, but adressing the randomness that becomes prominent when the number of interacting particles is small.
 
-## Intermediate
+# Intermediate
+## Biophysics of Neurons
+1. [Direction selectivity](Direction_selectivity.ipynb)
+    Shows how centripetal sequence of inputs (i.e., starting at distal dendrites and moving towards the soma) is more effective at depolarizing the soma compared to a centrifugal sequence of inputs.
 1. [Synapses](Synapses.ipynb)
    Explains the components of the basic synapse model in MOOSE. There can be multiple ways to model a synapse at different complexities, all based on these basic ideas.
 1. [Leaky integrate and fire (LIF) neurons and synapse](Leaky_integrate_and_fire_neuron.ipynb)
